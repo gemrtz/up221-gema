@@ -1,6 +1,7 @@
 # up221-gema
 # Introduction 
-**Gema Martinez Castillo (she/her)**
+
+Gema Martinez Castillo (she/her)**
 
 2nd Year MURP 
 
