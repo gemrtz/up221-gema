@@ -1,3 +1,10 @@
 # up221-gema
-# Profile 
-**Gema Martinez Castillo**
+# Introduction 
+**Gema Martinez Castillo (she/her)**
+2nd Year MURP 
+Transportation Policy and Planning Concentration 
+
+# Project Ideas
+1. Public Transit Access
+2. Ridership Distribution
+3. TOD Concentrations 
