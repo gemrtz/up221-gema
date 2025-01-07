@@ -1,13 +1,13 @@
 # up221-gema
 # Introduction 
 
-Gema Martinez Castillo (she/her)**
+Gema Martinez Castillo (she/her)
 
 2nd Year MURP 
 
 Transportation Policy and Planning Concentration 
 
-My transportation interests include station planning and active transportation. I like to read non-fiction books and enjoy walking my dog in my free time. 
+My transportation interests include station planning, active transportation, and transportation equity. I like to read non-fiction books and enjoy walking my dog in my free time. 
 
 # Project Ideas
 1. Public Transit Access
